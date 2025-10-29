@@ -6,5 +6,5 @@
 
 - [Future of Life Exercise](https://chbrooks.github.io/kiel/ethics/day2/future.md)
 
-#### Resources
+
 
