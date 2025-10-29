@@ -1,27 +1,11 @@
-Intro.
+#### Day 2: Generative AI.
 
-getting into how LLMs work.
-- architecture
-- tokenizing.
-- predicting the next token.
-- training sets.
+- [Day 2 Slides](https://chbrooks.github.io/kiel/GenAI/day2/day2.ppt)
 
-Supervised fine tuning
+#### Labs
 
-reinforcement learning.
+- [Programmatic Interfaces for LLMs](https://chbrooks.github.io/kiel/GenAI/day2/lab3_programming.md)
+- [Embeddings](https://chbrooks.github.io/kiel/GenAI/day2/lab4_embeddings.md)
 
----- 
-Return to your problems. Discuss in class.
-- Who are the stakeholders?
-- What is their problem?
-- What is the proposed solution?
-- How will you know if it works?
-- How will you get feedback? 
+#### Resources
 
------ 
-specifications coding. use that to develop 
-a better app. 
-
----- pair groups. get feedback, iterate.
-
----- present results.

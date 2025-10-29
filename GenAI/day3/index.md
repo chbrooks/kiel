@@ -1,24 +1,11 @@
+#### Day 3: Generative AI.
 
-Intro.
+- [Day 3 Slides](https://chbrooks.github.io/kiel/GenAI/day3/day3.ppt)
 
-Check in on designs.
+#### Labs
 
-Embeddings.
-What are they? Why are they interesting?
-Embeddings lab.
+- [Spec-driven AI Programming](https://chbrooks.github.io/kiel/GenAI/day3/lab5_spec.md)
+- [Using External Sources with LLMs](https://chbrooks.github.io/kiel/GenAI/day2/lab6_external.md)
 
-Design - how to add features to your app?
+#### Resources
 
----- 
-coding LLMs. Basic langchain.
-
------
-
-Integrating external sources:
-- RAG
-- MCP
-
------ Return to project. Students can add the features
-they want.
-
---- end of day - present wireframes.

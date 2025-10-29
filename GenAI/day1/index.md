@@ -7,6 +7,8 @@
 - [Brainstorming](https://chbrooks.github.io/kiel/GenAI/day1/brainstorming.md)
 - [Code Generation](https://chbrooks.github.io/kiel/GenAI/day1/codegeneration.md)
 
+#### Resources
+
 
 
 
