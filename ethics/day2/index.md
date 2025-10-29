@@ -1,12 +1,10 @@
-Intro -
-Reminder - Optopia, future of life.
+#### Day 2: Ethics.
 
-Design thinking and doing it wrong.
+- [Day 2 Slides](https://chbrooks.github.io/kiel/ethics/day2/day2.ppt)
 
-Let's apply 'doing it wrong' to the problems
-we identified yesterday. 
-What if we take a human-centered approach here? How should
-designers rethink these systems to be more human-centered?
+#### Exercises
 
-Return to optopia. 
-What would world that solved this problem correctly look like? 
+- [Future of Life Exercise](https://chbrooks.github.io/kiel/ethics/day2/future.md)
+
+#### Resources
+
